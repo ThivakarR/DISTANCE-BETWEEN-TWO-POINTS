@@ -8,7 +8,8 @@ Import math.
 ### Step 2: 
 Take the input from problem.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg).
+Substitute the values in the distance formula  ![image](https://user-images.githubusercontent.com/118707074/234810107-a7f9e07e-e02f-4644-9776-cf12eeee6f73.png)
+
 ### Step 4: 
 Print distance between two points.
 ### Step 5: 
